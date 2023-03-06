@@ -12,7 +12,7 @@ Digit = "0" | "1"
 A definition must be in one line and is not closed with ";". 
 Grouping with "()" is also supported. 
 
-The current version doesnt support temrminals which have spaces in them like this:
+The current version doesnt support terminals which have spaces in them like this:
 ```
 Space = " "
 ``` 
