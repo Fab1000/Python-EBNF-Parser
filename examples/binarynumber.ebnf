@@ -1,0 +1,2 @@
+NUMBER = DIGIT {DIGIT}
+DIGIT = "0" | "1"
