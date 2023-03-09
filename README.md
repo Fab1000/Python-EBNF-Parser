@@ -23,7 +23,7 @@ This will return `True` if the string passed the test and `False` if not.
 To generate a list of all possible Strings within an EBNF use `EBNF_Obejct.generateStringList(maxRepetitions)`.
 This will return a list of all possible strings. MaxRepetitions must be >= 0 and will control how often repetitions like `{SOMETHING}` will be included in the list. 
 
-Clauses with "|" inside of repetitions must be capsulated as a group like this: `{("a" | "b"}`.
+Clauses with "|" inside of repetitions must be capsulated as a group like this: `{("a" | "b")}`.
 
 
 ## Example
